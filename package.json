@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:adrenallen/memebot.git"
+    "url": "git@github.com:reedislost/wtfbuild.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adrenallen/memebot/issues"
+    "url": "https://github.com/reedislost/wtfbuild/issues"
   },
-  "homepage": "https://github.com/adrenallen/memebot/blob/master/readme.md",
+  "homepage": "https://github.com/reedislost/wtfbuild/blob/master/readme.md",
   "dependencies": {
     "@discordjs/voice": "^0.14.0",
     "@keyv/sqlite": "^3.6.5",
