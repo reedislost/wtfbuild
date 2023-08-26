@@ -6,7 +6,7 @@ const data = new SlashCommandBuilder()
 		.setDescription('???')
 
 async function execute(interaction) {
-	let content = `Please send give us vests`;
+	let content = `Please give us vests`;
     await interaction.reply({ content });
 	
 }
