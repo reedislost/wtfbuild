@@ -13,6 +13,12 @@ Currently there are two example commands:
 `/vests` - ???
 
 
+## setup
+
+Get a discord bot token and client id and add it to your `.env` file. [See a guide here, or ping Garrett if this is confusing](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
+
+Run `npm run dev` which will run the deploy-commands file and then run the bot. Deploy commands is necessary to have slash commands work.
+
 ## Next steps
 
 - [ ] Make the bot create and save a new poll to a db, maybe find a service for doing this?
